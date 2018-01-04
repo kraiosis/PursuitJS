@@ -1,0 +1,29 @@
+{
+  "name": "pursuit.js",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript library that enables client-side searches of JSON objects.",
+  "author": {
+    "name": "Federico Guzman",
+    "email": "federicoguzman@gmail.com",
+    "url": "https://github.com/kraiosis"
+  },
+  "keywords": [
+    "json",
+    "javascript",
+    "search"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kraiosis/PursuitJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kraiosis/PursuitJS/issues"
+  },
+  "homepage": "http://www.weblantropia.com",
+  "main": "./dist/pursuit",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
