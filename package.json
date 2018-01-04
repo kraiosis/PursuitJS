@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/kraiosis/PursuitJS/issues"
   },
-  "homepage": "http://www.weblantropia.com",
+  "homepage": "http://www.pursuitjs.com",
   "main": "./dist/pursuit",
   "dependencies": {
   },
