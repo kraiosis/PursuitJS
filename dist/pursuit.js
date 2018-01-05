@@ -1,7 +1,7 @@
 /*
  * pursuit.js [v1.0.0]
  * http://www.pursuitjs.com 
- * Copyright (c) 20117-2018, Federico Guzman <federico@weblantropia.com> 
+ * Copyright (c) 2017-2018, Federico Guzman <federico@weblantropia.com> 
  * Licensed under the MIT License
  */
 /* 
