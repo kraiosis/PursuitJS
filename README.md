@@ -73,7 +73,7 @@ var results = Pursuit.Keys(data,'SGML');
 
 ## Autor
 
-* **Federico Guzmán** - [Weblantropia](https://github.com/kraiosis)
+* **Federico Guzmán** - [kraiosis](https://github.com/kraiosis)
 * **iwek** - [iwek](https://github.com/iwek)
 
 ## License
