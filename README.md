@@ -4,7 +4,7 @@ Lightweight JavaScript library that enables client-side searches of JSON objects
 
 Perform simple searches of nodes by allowing to specify key or value to find all matches or use of available methods to validate a JSON structure, get objects, keys or values of a JSON string.
 
-If need a robust or more complex JSON search library, take look to [JSONPath](http://goessner.net/articles/JsonPath/) or [DefiantJS](https://github.com/hbi99/defiant.js). PursuitJS is intended tdo simple searches.
+If need a robust or more complex JSON search library, take look to [JSONPath](http://goessner.net/articles/JsonPath/) or [DefiantJS](https://github.com/hbi99/defiant.js). PursuitJS is intended to do simple searches.
 
 PursuitJS is a build-in merged modification of [find-in-json.js](https://gist.github.com/iwek/3924925) by [iwek](https://github.com/iwek).
 
