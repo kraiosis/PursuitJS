@@ -11,7 +11,10 @@ PursuitJS is a build-in merged modification of [find-in-json.js](https://gist.gi
 ## Requirements
 
 Download and include the library into your project by reference:
+```js
 <script src="../dist/pursuit.min.js" type="text/javascript"></script>
+
+```
 
 ## Usage
 
